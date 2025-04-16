@@ -1,4 +1,4 @@
-import xmlrpc.client
+wefwfimport xmlrpc.client
 import sys
 
 def translate_file(input_file, output_file):
