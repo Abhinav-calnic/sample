@@ -1,5 +1,5 @@
 import xmlrpc.client
-import sdhvbrybvsys
+import sys
 
 def translate_file(input_file, output_file):
     # Connect to the Moses server
