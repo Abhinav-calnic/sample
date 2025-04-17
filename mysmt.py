@@ -1,5 +1,5 @@
 import xmlrpc.client
-import sysss sss#edit
+import sysss sss#newedit
 
 def translate_file(input_file, output_file):
     # Connect to the Moses server
